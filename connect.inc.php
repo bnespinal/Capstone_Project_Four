@@ -2,8 +2,8 @@
 /**
  * Created by PhpStorm.
  * User: Benjamin
- * Date: 10/2/2019
- * Time: 6:59 PM
+ * Date: 10/18/2019
+ * Time: 6:00 PM
  */
 /* CREATE A CONNECTION TO THE SERVER */
 try{
