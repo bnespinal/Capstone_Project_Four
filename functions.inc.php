@@ -1,9 +1,9 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: jennis
- * Date: 2/20/2018
- * Time: 9:39 AM
+ * User:Benjamin
+ * Date: 10/20/2019
+ * Time: 10:25 AM
  */
 
 //This function checks to see if someone is logged in
